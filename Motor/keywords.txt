@@ -1,0 +1,7 @@
+Motor	KEYWORD1
+begin	KEYWORD2
+cycle	KEYWORD2
+setDir	KEYWORD2
+getDir	KEYWORD2
+setSpeed	KEYWORD2
+getSpeed	KEYWORD2

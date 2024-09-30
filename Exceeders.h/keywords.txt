@@ -1,0 +1,16 @@
+Exceeders	KEYWORD1
+begin	KEYWORD2
+straight	KEYWORD2
+rotate	KEYWORD2
+drive	KEYWORD2
+stop	KEYWORD2
+calibrateLift	KEYWORD2
+liftTo	KEYWORD2
+getUSDistance	KEYWORD2
+getGyroDegrees	KEYWORD2
+getIRRemoteChannelButtons	KEYWORD2
+getButtonPress	KEYWORD2
+print	KEYWORD2
+printVar	KEYWORD2
+waitForButton	KEYWORD2
+sleep	KEYWORD2
